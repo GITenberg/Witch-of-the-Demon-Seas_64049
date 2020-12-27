@@ -1,0 +1,35 @@
+_repo: Witch-of-the-Demon-Seas_64049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Poul
+    aliases:
+    - Craig, A.A.
+    - Craig, A. A.
+    - Saunders, Winston P.
+    - Sanders, Winston P.
+    - Karageorge, Michael
+    - Anderson, Poul William
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
+description: ''
+gutenberg_issued: '2020-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Pirates -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Magicians -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Witch of the Demon Seas
+url: http://www.gutenberg.org/ebooks/64049
